@@ -1,3 +1,7 @@
+## This is a contact management application built in ReactJs
+
+This app allows user to add new contacts, edit existing contacts and delete required contacts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
