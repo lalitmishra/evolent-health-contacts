@@ -7,11 +7,11 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #083080;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -19,4 +19,34 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.Alert-height {
+  margin-top: 2% !important;
+  line-height: 60%;  
+}
+
+.margin-top-2P {
+  margin-top: 2% !important;
+}
+
+.btn-success-left {
+  float: left;
+}
+
+.btn-reset-right {
+  float: right;
+  margin: 1%;
+}
+
+.no-padding {
+  padding: 0% !important
+}
+
+.margin-1px {
+  margin: 1.5%;
+}
+
+.back-button {
+  margin-right: 1% !important;
 }
